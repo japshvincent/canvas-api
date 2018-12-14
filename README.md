@@ -1,3 +1,6 @@
+<a href="https://snyk.io/test/github/japshvincent/canvas-api?targetFile=pom.xml"><img src="https://snyk.io/test/github/japshvincent/canvas-api/badge.svg?targetFile=pom.xml" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/japshvincent/canvas-api?targetFile=pom.xml" style="max-width:100%;"></a>
+
+
 # Canvas API Library for Java
 This is a Java library which wraps the [Canvas LMS REST API](https://canvas.instructure.com/doc/api/index.html). It allows you to make requests to the API using Java domain objects while the low level details of the HTTP requests, authentication, etc are taken care of for you.
 
